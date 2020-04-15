@@ -1,7 +1,1 @@
-# dev
-
-boilerplate for fast prototyping.
-
-<!-- iniciando o comando `npm start` as seguintes tarefas são executadas -->
-
-<!-- - verifica se precisa rodar `npm install`  -->
+VALVAL PORRA FALA COMIGO VAMOS DOMINAR O MUNDO PORRA !
